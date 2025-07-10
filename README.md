@@ -9,12 +9,12 @@ I’m using this repo to:
 - Improve my coding and problem-solving skills.
 - Keep track of my progress.
 - 
-## 🛠️ Languages Used
+## Languages Used
 
 Mainly practicing in:  
 C / C++ 
 
-## ✅ Goal
+## Goal
 
 Solve DSA problems consistently and build a strong foundation.
 
